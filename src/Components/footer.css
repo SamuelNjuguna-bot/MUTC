@@ -1,0 +1,44 @@
+.footer-details {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  background-color: var(--color-black);
+}
+.footer-logo {
+  width: 10rem;
+}
+.footer-logo image-wrapper {
+  width: 14rem;
+  height: 14rem;
+  border: 2px solid red;
+}
+
+.footer-logo h1 {
+  color: white;
+  font-size: 2rem;
+}
+.contact-icons {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+}
+.contact-icons h1 {
+  font-size: 3rem;
+}
+.Link {
+  font-size: 3rem;
+  color: white;
+}
+.contact-icons :hover {
+  color: purple;
+}
+.pageLinks {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  font-size: 3rem;
+  color: white;
+}
+.pageLinks :hover {
+  color: purple;
+}

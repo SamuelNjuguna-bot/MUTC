@@ -1,26 +1,24 @@
-*{
+* {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
-:root{
-  --primary-color: #E5E4E2;
-  --secondary-gray: #6082B6;
-  --color-White:#FFFFFF;
-  --color-black:#353935;
+:root {
+  --primary-color: #e5e4e2;
+  --secondary-gray: #6082b6;
+  --color-White: #ffffff;
+  --color-black: #353935;
   --primary-font: "Playfair Display", serif;
   --secondary-font: "Playfair Display", serif;
 }
 
-html{
+html {
   font-size: 62.5%;
 }
-body{
+body {
   font-size: 1.6 rem;
   background-color: var(--primary-color);
 }
-a{
+a {
   text-decoration: none;
-  color:var(--color-White);
 }
-
