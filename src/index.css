@@ -1,0 +1,26 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+:root{
+  --primary-color: #E5E4E2;
+  --secondary-gray: #6082B6;
+  --color-White:#FFFFFF;
+  --color-black:#353935;
+  --primary-font: "Playfair Display", serif;
+  --secondary-font: "Playfair Display", serif;
+}
+
+html{
+  font-size: 62.5%;
+}
+body{
+  font-size: 1.6 rem;
+  background-color: var(--primary-color);
+}
+a{
+  text-decoration: none;
+  color:var(--color-White);
+}
+
