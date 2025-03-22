@@ -1,8 +1,10 @@
 .footer-details {
   display: flex;
   justify-content: space-around;
-  flex-wrap: wrap;
+  min-width: 70vh;
+  min-height: 40vh;
   background-color: var(--color-black);
+  width: 100%;
 }
 .footer-logo {
   width: 10rem;
@@ -41,4 +43,9 @@
 }
 .pageLinks :hover {
   color: purple;
+}
+@media screen and(max-width:43.75em) {
+  .contact-icons {
+    flex-wrap: wrap important!;
+  }
 }
