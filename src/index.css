@@ -9,7 +9,8 @@
   --color-White: #ffffff;
   --color-black: #353935;
   --primary-font: "Playfair Display", serif;
-  --secondary-font: "Playfair Display", serif;
+  --secondary-font: "Oswald", sans-serif;
+  --fancy-font: "Lora", serif;
 }
 
 html {
