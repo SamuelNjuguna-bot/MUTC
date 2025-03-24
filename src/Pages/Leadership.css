@@ -4,6 +4,18 @@
   justify-content: center;
   gap: 2rem;
 }
+.section-leadership-hero{
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.section-leadership-hero h1{
+  text-transform: capitalize;
+  font-size: 4rem;
+  font-family: var(--italicised);
+  color: orange;
+}
 .leaders-container {
   display: flex;
   justify-content: center;

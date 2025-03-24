@@ -43,6 +43,9 @@ function Leadership() {
   return (
     <>
       <Header />
+      <div className="section-leadership-hero">
+        <h1>Meet the Our team of leaders who keep this on going !!!</h1>
+      </div>
       <section className="leaders">
         <Leaders name="Dr. John Ndia" url={image} biography={exerpt1} />
         <Leaders name="Victory Njeri" url={lady1} biography={exerpt2} />
