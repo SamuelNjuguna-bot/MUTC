@@ -1,0 +1,20 @@
+.events-hero {
+  display: flex;
+  margin: 4rem;
+  align-items: center;
+  justify-content: center;
+}
+.events-hero h1 {
+  font-family: var(--italicised);
+  font-size: 4rem;
+}
+
+.weekly-guide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.todos {
+  border: 2px solid red;
+}
