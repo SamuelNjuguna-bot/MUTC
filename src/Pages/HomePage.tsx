@@ -3,7 +3,6 @@ import Footer from "../Components/Footer";
 import heroImage from "../assets/hero-section/hero-section.jpg";
 import profile from "../assets/person1.jpg";
 import profile2 from "../assets/person2.jpg";
-import { FaRegStar } from "react-icons/fa6";
 import { FaQuoteRight } from "react-icons/fa6";
 import { FaStar } from "react-icons/fa";
 import "./Homepage.css";
