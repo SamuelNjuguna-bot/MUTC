@@ -14,8 +14,8 @@
   color: white;
 }
 .active-link {
-  color: purple;
-  color: var(--color-black);
+  
+  color: white;
 }
 @media screen and (max-width: 37.5em) {
   .links {

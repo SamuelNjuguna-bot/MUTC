@@ -55,7 +55,9 @@ function Guide({ day, todo }: myGuige) {
       <div className="todos">
         <h1 className="day">{day}</h1>
         <h1>{todo}</h1>
+        <button className="register">Register</button>
       </div>
+      
     </>
   );
 }

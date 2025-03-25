@@ -27,7 +27,8 @@ function Navigation({ to, label }: NavLinks) {
     <>
       <NavLink
         to={to}
-        className={({ isActive }) => (isActive ? "active-link" : "")}
+        
+        className={( {isActive} ) => (isActive ? "active-link" : "")}
       >
         {label}
       </NavLink>
