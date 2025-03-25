@@ -3,8 +3,6 @@
   margin: 4rem;
   align-items: center;
   justify-content: center;
-  
-
 }
 .events-hero h1 {
   font-family: var(--italicised);
@@ -30,11 +28,11 @@
   flex-direction: column;
   font-size: 1.5rem;
   background-color: var(--secondary-gray);
-  box-shadow: -4px 6px 65px -22px rgba(0,0,0,0.56);
-  -webkit-box-shadow: -4px 6px 65px -22px rgba(0,0,0,0.56);
-  -moz-box-shadow: -4px 6px 65px -22px rgba(0,0,0,0.56);
+  box-shadow: -4px 6px 65px -22px rgba(0, 0, 0, 0.56);
+  -webkit-box-shadow: -4px 6px 65px -22px rgba(0, 0, 0, 0.56);
+  -moz-box-shadow: -4px 6px 65px -22px rgba(0, 0, 0, 0.56);
   margin-bottom: 4rem;
 }
-.day{
-   color: orange;
+.day {
+  color: orange;
 }

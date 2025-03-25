@@ -65,24 +65,20 @@ function Tracks() {
           <h1>Subscribe</h1>
         </div>
         <form action="">
-          <input
-            type="text"
-            className="nameInput"
-            placeholder="enter your name"
-          />
+          <input type="text" className="Input" placeholder="enter your name" />
           <input
             type="email"
-            className="emailInput"
+            className="Input"
             placeholder="enter your email"
           />
           <input
             type="text"
-            className="courseInput"
+            className="Input"
             placeholder="enter your course"
           />
           <input
             type="number"
-            className="YOfStudyInput"
+            className="Input"
             placeholder="enter your year of study"
           />
           <select name="" id="">

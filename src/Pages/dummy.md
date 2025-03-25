@@ -137,6 +137,7 @@ trackImageUrl: string;
 }
 function TracksContainer({trackExerpt, trackWhatToExpect, trackImageUrl}:tracksContent) {
 return (
+
 <div className="track-container">
 
       <div className="track-container-image-wrapper">

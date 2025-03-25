@@ -1,7 +1,6 @@
 .Header {
   background-color: var(--secondary-gray);
   min-height: 40vh;
-  min-width: 70vh;
   width: 100%;
 }
 
@@ -17,4 +16,10 @@
 .active-link {
   color: purple;
   color: var(--color-black);
+}
+@media screen and (max-width: 37.5em) {
+  .links {
+    gap: 2rem;
+    font-size: 2rem;
+  }
 }
